@@ -1,0 +1,10 @@
+F:\物联网设计与开发\MultiLanguage\obj\Debug\MultiLanguage.csprojAssemblyReference.cache
+F:\物联网设计与开发\MultiLanguage\obj\Debug\MultiLanguage.ChildForm.resources
+F:\物联网设计与开发\MultiLanguage\obj\Debug\MultiLanguage.MainForm.resources
+F:\物联网设计与开发\MultiLanguage\obj\Debug\MultiLanguage.Properties.Resources.resources
+F:\物联网设计与开发\MultiLanguage\obj\Debug\MultiLanguage.csproj.GenerateResource.cache
+F:\物联网设计与开发\MultiLanguage\obj\Debug\MultiLanguage.csproj.CoreCompileInputs.cache
+F:\物联网设计与开发\MultiLanguage\bin\Debug\MultiLanguage.exe
+F:\物联网设计与开发\MultiLanguage\bin\Debug\MultiLanguage.pdb
+F:\物联网设计与开发\MultiLanguage\obj\Debug\MultiLanguage.exe
+F:\物联网设计与开发\MultiLanguage\obj\Debug\MultiLanguage.pdb

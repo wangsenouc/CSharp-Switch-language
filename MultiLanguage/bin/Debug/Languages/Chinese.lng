@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language Id="CHS" Name="Chinese" LocaleName="中文(简体)" LangID="0x0409" CodePage="1252">
+  <strings>
+    <INF_AppName>多语言</INF_AppName>
+  </strings>
+  <forms>
+    <MainForm Text="多语言切换">
+      <miLanguage Text = "语言" />
+      <button1 Text = "弹窗" />
+    </MainForm>
+    <ChildForm Text="子窗口">
+      <label1 Text = "显示简体中文"  />
+    </ChildForm>
+  </forms>
+</language>

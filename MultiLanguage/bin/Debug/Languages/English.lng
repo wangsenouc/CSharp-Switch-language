@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language Id="ENG" Name="English" LocaleName="English" LangID="0x0409" CodePage="1252">
+  <strings>
+    <INF_AppName>MultiLanguage</INF_AppName>
+  </strings>
+  <forms>
+    <MainForm Text="Multi-language switching">
+      <miLanguage Text = "Language" />
+      <button1 Text = "ShowForm" />
+    </MainForm>
+    <ChildForm Text="子窗口">
+      <label1 Text = "DisPlay English"  />
+    </ChildForm>
+  </forms>
+</language>
